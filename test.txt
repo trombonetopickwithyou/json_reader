@@ -1,0 +1,1 @@
+[{"RNumber":"11111111","FirstName":"Connor","LastName":"Collins","Major":null,"Graduation":"Spring 2020","CheckInTime":"2018-09-19T07:35:40.8735011-05:00"},{"RNumber":"22222222","FirstName":"Connor","LastName":"Collins","Major":"Electrical Engineering","Graduation":"Spring 2020","CheckInTime":"2018-09-19T07:35:40.8735011-05:00"}]
